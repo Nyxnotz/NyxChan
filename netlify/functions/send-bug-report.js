@@ -17,7 +17,7 @@ exports.handler = async (event, context) => {
       };
     }
 
-    const message = ` НОВЫЙ БАГ РЕПОРТ
+    const message = `НОВЫЙ БАГ РЕПОРТ
 
 📝 Описание:
 ${description}
