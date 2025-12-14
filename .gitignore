@@ -1,0 +1,10 @@
+config.js
+
+.DS_Store
+Thumbs.db
+
+*.bak
+*.tmp
+*~
+
+*.log
