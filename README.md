@@ -1,2 +1,1 @@
-# NyxChan
-Something like my forum idk
+Goodbye everyone, thanks for all support
